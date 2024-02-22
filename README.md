@@ -12,13 +12,11 @@ Please configure snapADDY as follows:
 
 - **Endpoint-URL:** https://MY-ERP.COM/api/method/erpnext_snapaddy.api.data_quality
 
-    > [!NOTE]
     > Replace `MY-ERP.COM` with your ERPNext domain.
 
 - **HTTP method:** POST
 - **Authorization Header:** Token API_KEY:API_SECRET
 
-    > [!NOTE]
     > Replace `API_KEY` and `API_SECRET` with the API Key and API Secret of the user you created in ERPNext.
 
 #### Disclaimer
