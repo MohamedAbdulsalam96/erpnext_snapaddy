@@ -5,7 +5,7 @@ Sync leads from snapADDY to ERPNext
 This app provides an endpoint for the [snapADDY Data Quality webhook](https://developers.snapaddy.com/dataquality-webhook-api/guides/getting-started). It enables your ERPNext instance to receive data from snapADDY and create new leads in ERPNext based on the received data.
 
 > [!TIP]
-> Should you wish to support this app, we kindly request that you [contact us](mailto:hallo@alyf.de) prior to purchasing or renewing your SnapADDY subscription. This will allow us to claim a commission.
+> Should you wish to support this app, we kindly request that you [contact us](mailto:hallo@alyf.de) prior to purchasing or renewing your snapADDY subscription. This will allow us to claim a commission.
 
 ### Configuration
 
